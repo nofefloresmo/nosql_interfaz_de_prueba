@@ -9,7 +9,7 @@ class AlumnosScreen extends StatefulWidget {
 }
 
 class _AlumnosScreenState extends State<AlumnosScreen> {
-  String localIp = Host.getHost(); // IP de tu máquina host
+  String localIp = Host.getHost(); // IP de la máquina host
 
   List<dynamic> alumnos = [];
   String? selectedAlumnoId;
