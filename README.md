@@ -8,8 +8,6 @@ class Host {
   }
 }
 ```
-```markdown
-
 ## Estructura del Proyecto
 
 ```plaintext
